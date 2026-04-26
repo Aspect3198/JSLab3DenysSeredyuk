@@ -96,7 +96,6 @@ function formatDateLocale(date, lang) {
         year: 'numeric',
         month: 'long',
         day: 'numeric',
-        era: 'long',
         hour: '2-digit',
         minute: '2-digit',
         second: '2-digit'
